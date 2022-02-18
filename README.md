@@ -1,6 +1,6 @@
 ## Olá! Eu sou Fabio Luiz
 
-- 🔭 Hoje trabalho com back-end e front-end
+- 🔭 Trabalho com back-end e front-end.
 - 🌱 Python, ReactJS, NodeJS, JavaScript, C#.NET, PHP e CSS.
 
 
