@@ -1,8 +1,7 @@
 ## Olá! Eu sou Fabio Luiz
 
 - 🔭 Hoje trabalho com back-end e front-end
-- 🌱 Estudando Python, ReactJS, JavaScript e C#
-- 😄 Pronouns: ele/dele
+- 🌱 Trabalhando com Python, ReactJS, NodeJS, JavaScript, C#.NET, PHP e CSS.
 
 <div>
   <a href="https://beacons.ai/binho.fls">
